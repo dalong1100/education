@@ -1,2 +1,2 @@
 # education
-基于python的在西安学习平台
+基于python的在线学习平台
